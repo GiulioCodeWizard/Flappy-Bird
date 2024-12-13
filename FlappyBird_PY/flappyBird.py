@@ -4,6 +4,7 @@ Flappy Bird Game in .py
 """
 
 # sudo pip install pygame
+# Press M to display a Menu with the top 5 scores
 import pygame
 import random
 
